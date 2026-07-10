@@ -28,3 +28,13 @@ A simple calculator project created while learning HTML, CSS, and JavaScript.
 ## Learning Goal
 
 This project is part of my web development learning journey.
+button{
+    width:50px;
+    height:50px;
+    margin:5px;
+    font-size:18px;
+}
+
+body{
+    background-color:#f5f5f5;
+}
