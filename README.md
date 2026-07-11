@@ -1,14 +1,3 @@
-
-# Calculator Project
-
-Simple calculator project created while learning HTML, CSS and JavaScript.
-
-## Technologies
-- HTML
-- CSS
-- JavaScript
-
-Currently learning web development and GitHub.
 # Calculator Project
 
 A simple calculator project created while learning HTML, CSS, and JavaScript.
@@ -28,13 +17,22 @@ A simple calculator project created while learning HTML, CSS, and JavaScript.
 ## Learning Goal
 
 This project is part of my web development learning journey.
-button{
-    width:50px;
-    height:50px;
-    margin:5px;
-    font-size:18px;
-}
+## Project Structure
 
-body{
-    background-color:#f5f5f5;
-}
+calculator-project/
+│── index.html
+│── style.css
+│── README.md
+
+## Future Improvements
+
+- Add JavaScript functionality
+- Improve calculator design
+- Make the layout responsive
+- Add keyboard support
+
+## Author
+
+**Naziya Gouri**
+
+BCA Student | Learning Web Development
