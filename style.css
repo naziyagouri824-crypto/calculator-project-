@@ -31,3 +31,14 @@ button{
 button:hover{
     background-color:#dcdcdc;
 }
+button:active{
+    background-color:#bfbfbf;
+}
+
+button{
+    transition:0.2s;
+}
+
+input{
+    text-align:right;
+}
